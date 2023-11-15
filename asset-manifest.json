@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/quicksell-frontend/static/css/main.659fcac0.css",
+    "main.js": "/quicksell-frontend/static/js/main.e5a752fd.js",
+    "static/js/787.0dc1bfd1.chunk.js": "/quicksell-frontend/static/js/787.0dc1bfd1.chunk.js",
+    "static/media/In progress.png": "/quicksell-frontend/static/media/In progress.6a339e21bf6459e44de0.png",
+    "static/media/Green_sphere.svg.png": "/quicksell-frontend/static/media/Green_sphere.svg.0b1f977cbf3790622bae.png",
+    "static/media/profile.jpeg": "/quicksell-frontend/static/media/profile.360bee5b53cdbcbdbe81.jpeg",
+    "static/media/pngwing.com.png": "/quicksell-frontend/static/media/pngwing.com.67e454978b600f7369ea.png",
+    "static/media/PngItem_5284486.png": "/quicksell-frontend/static/media/PngItem_5284486.2c633325fcfcf4c47f70.png",
+    "index.html": "/quicksell-frontend/index.html",
+    "main.659fcac0.css.map": "/quicksell-frontend/static/css/main.659fcac0.css.map",
+    "main.e5a752fd.js.map": "/quicksell-frontend/static/js/main.e5a752fd.js.map",
+    "787.0dc1bfd1.chunk.js.map": "/quicksell-frontend/static/js/787.0dc1bfd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659fcac0.css",
+    "static/js/main.e5a752fd.js"
+  ]
+}
